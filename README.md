@@ -4,7 +4,7 @@ Tools:
 
 - [x] Webpack
 - [ ] Rollup
-- [ ] Babel ([babel/babel#15536]{https://github.com/babel/babel/pull/15536})
+- [ ] Babel ([babel/babel#15536](https://github.com/babel/babel/pull/15536))
 - [ ] SWC ([swc-project/swc#7179](https://github.com/swc-project/swc/issues/7179))
 - [ ] ESLint
 - [ ] TypeScript ([microsoft/TypeScript#53656](https://github.com/microsoft/TypeScript/issues/53656))
