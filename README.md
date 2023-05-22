@@ -3,7 +3,7 @@
 Tools:
 
 - [x] Webpack
-- [ ] Rollup
+- [x] Rollup
 - [ ] Babel ([babel/babel#15536](https://github.com/babel/babel/pull/15536))
 - [ ] SWC ([swc-project/swc#7179](https://github.com/swc-project/swc/issues/7179))
 - [ ] ESLint
@@ -25,3 +25,9 @@ Notes:
 Supported since version 5.48.0; make sure that its `acorn-import-assertions` dependency is at least version 1.9.0.
 
 Run `npm ci` and `npm run webpack`; it will bundle `src/` to `dist/out.webpack.js`
+
+## Rollup
+
+Supported since v3.22.1.
+
+Run `npm ci` and `npm run rollup`; it will bundle `src/` to `dist/out.rollup.js`
